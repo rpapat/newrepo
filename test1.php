@@ -6,4 +6,6 @@ echo " This is the second commit.........";
 echo " This is third commit.......";
 
 echo " This is the forth commit......";
+
+echo " This commit is on integration branch...";
 ?>
